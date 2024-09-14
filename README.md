@@ -1,3 +1,20 @@
 # Mac-address-changer
-Here I will be showing that how to create a valid random MAC address generator?  
-Create your own bash script for making your life easier.
+
+
+# address
+
+Get current machine IPv4, IPv6, MAC and DNS servers.
+
+DNS servers receive from `/etc/resolv.conf`.
+
+## Install
+```bash
+sudo apt install macchanger
+```
+## Usage
+
+Change your MAC address 
+
+```bash
+npm install address
+```
