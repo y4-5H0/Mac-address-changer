@@ -1,0 +1,9 @@
+[Unit]
+Description=Random MAC address Generator
+
+[Service]
+Type=simple
+ExecStart=/bin/bash /home/Mac-address-changer/randommac.sh
+
+[Install]
+WantedBy=multi-user.target
