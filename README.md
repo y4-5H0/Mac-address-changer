@@ -11,7 +11,7 @@ sudo apt install macchanger
 `Clone` the repository.
 
 ```bash
-https://github.com/n1n7u70/Mac-address-changer.git
+git clone https://github.com/n1n7u70/Mac-address-changer.git
 ```
 `cd` into the directory `Mac-address-changer`.
 ```bash
