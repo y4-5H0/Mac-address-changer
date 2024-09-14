@@ -16,5 +16,19 @@ sudo apt install macchanger
 Change your MAC address 
 
 ```bash
-npm install address
+https://github.com/n1n7u70/Mac-address-changer.git
 ```
+
+```bash
+cd Mac-address-changer
+```
+
+```bash
+chmod +x mac.sh
+```
+
+```bash
+
+
+```
+
