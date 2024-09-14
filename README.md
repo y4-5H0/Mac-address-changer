@@ -24,7 +24,7 @@ chmod +x mac.sh
 ```
 Run the file `mac.sh`.
 ```bash
-./mac.sh
+sudo ./mac.sh
 ```
 ## Note
 `mac.sh` is configured for ethernet devices `eth0`.
